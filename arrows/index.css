@@ -1,0 +1,32 @@
+.arrow-left{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-right: 50px solid red;
+    border-bottom: 50px solid transparent;
+}
+.arrow-right{
+    width: 0;
+    height: 0;
+    border-left: 50px solid red;
+    border-top: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
+.arrow-top{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid red;
+}
+.arrow-bottom{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-top: 50px solid red;
+    border-right: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
